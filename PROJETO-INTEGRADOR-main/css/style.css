@@ -67,7 +67,7 @@ header ul li a
 {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background: url(bj.jpg);
     background-size: cover;
 }
