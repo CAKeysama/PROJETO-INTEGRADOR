@@ -34,12 +34,16 @@ header .logo
 {
     position: relative;
     font-weight: 700;
-    color: #fff;
+    color: rgb(78, 216, 112);
     text-decoration: none;
     font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 2px;
     transition: 0.6s;
+}
+header .logo:hover
+{
+    transform: scale(1.05);
 }
 header ul
 {
@@ -71,7 +75,10 @@ header ul li a
     background: url(bj.jpg);
     background-size: cover;
 }
-header.sticky .logo,
+header.sticky .logo
+{
+    color:rgb(78, 216, 112)
+}
 header.sticky ul li a
 {
     color: #000;
