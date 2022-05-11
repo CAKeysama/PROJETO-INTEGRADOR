@@ -245,9 +245,75 @@ a:link{
 }
 .caixaCurso
 {
-    display: inline;
+display: inline block;
+background-color: rgba(140, 245, 245, 0.396);
+text-align: center;
+border-radius: 100px;
+
 }
 .textoC1
 {
+    font-size: 40px;
+    
+}
+.botao1
+{
+    width: 300px;
+    height: 90px;
+    margin: 0 auto;margin: 0 au
+}
+.educacao
+{
+    font-size: 30px; 
+  color:rgb(78, 226, 115);
+  text-align: center;
+  background-color:#fff;
+  border-radius: 100px;
+  text-decoration: none !important;
+}
+.caixaCurso1
+{
+display: inline block;
+background-color: rgba(140, 245, 245, 0.225);
+text-align: center;
+border-radius: 100px;}
+
+.contato
+{
     color: #fff;
+    text-align: center;
+    font-size: 50px;
+
+}
+.telefone
+{
+    width: 15%;
+}
+.email
+{
+    width: 15%;
+}
+.agradecemos
+{
+    width:15%;
+}
+
+.telefone
+{
+    border-radius: 25px;
+    max-width:500px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    margin-left: 5px;
+    margin-top: 7px;
+    
+}
+.telefone1
+{
+    font-size: 30px; 
+  color:rgb(78, 226, 115);
+  text-align:center;
+  background-color:#fff;
+  border-radius: 100px;
 }
